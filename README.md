@@ -1,5 +1,5 @@
 
-## AI chat
+## Oled AI chat
 
   The project is a AI chat
 
