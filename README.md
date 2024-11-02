@@ -1,5 +1,5 @@
 
-## Project title
+## AI chat
 
   The project is a AI chat
 
