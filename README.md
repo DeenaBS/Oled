@@ -5,7 +5,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Oled
 
-Final project for the Building AI course
+Oled
 
 ## Summary
 
