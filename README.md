@@ -1,7 +1,7 @@
 
 ## Priject title
 
- Oled project
+  The project is a AI chat
 
 ## Summary
 
